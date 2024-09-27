@@ -7,7 +7,7 @@ import 'dart:convert';
 
 
 class AuthService {
-  static const _baseUrl = "https://tomato.galen.life";
+  static const _baseUrl = "https://net.misakra.art";
   static const _inviteLinkBase = "$_baseUrl/#/register?code=";
 
   // 获取完整邀请码链接的方法
